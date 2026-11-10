@@ -27,8 +27,7 @@ ER-диаграмма
 **1. Клонирование репозитория**
 - Откройте терминал (или PowerShell) и скопируйте проект на свой компьютер:
 
-```bash```
-git clone https://github.com/lifeiliv33/liza.git
+```git clone https://github.com/lifeiliv33/liza.git```
 
 **2. Настройка базы данных**
 - Откройте MS SQL Server Management Studio (SSMS).
