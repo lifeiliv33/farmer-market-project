@@ -17,6 +17,9 @@
 ER-диаграмма
 <img width="2097" height="1186" alt="image" src="https://github.com/user-attachments/assets/e354d047-93a9-4ddc-b672-8c0f144dc539" />
 
+<img width="640" height="426" alt="animation" src="https://github.com/user-attachments/assets/b25a61be-8673-4a94-bc3b-7817d6bc0e68" />
+
+
 *(Раздел будет заполнен на Этапе 3, когда Разработчик 3 подготовит интерфейс)*
 *Здесь появятся изображения экранов: Авторизация, Оформление продажи, Склад, Отчёты.*
 
